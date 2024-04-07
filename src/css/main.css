@@ -195,6 +195,7 @@ body {
   top: 2px;
   left: 3px;
   border-radius: 50%;
+  background-size:contain;
 }
 .v263_471 {
   width: 243px;
